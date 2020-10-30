@@ -15,5 +15,5 @@
 - Calibrate Compass
 - Radio Calibration
 - ESC calibration
-- **모터 방향 테스트(호버링이 안될경우 확인!!)
+- 모터 방향 테스트(호버링이 안될경우 확인!!)
 - Arduino Leonardo Joystick
